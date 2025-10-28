@@ -15,6 +15,7 @@ eeg-signal-processing-using-plv/
 ├── report/       # Final project report (PDF)
 ├── README.md
 └── .gitignore
+```
 
 ## 🧠 Tools
 MATLAB | EEGLAB | Signal Processing Toolbox
