@@ -8,12 +8,14 @@ This project analyzes EEG recordings from Alzheimer's and control participants u
 - Statistical comparison between Alzheimer’s and control groups
 
 ## 📂 Repository Structure
+\`\`\`text
 eeg-signal-processing-using-plv/
 ├── src/ # MATLAB code for preprocessing and analysis
 ├── data/ # Processed EEG .mat files
 ├── report/ # Final project report (PDF)
 ├── README.md
 └── .gitignore
+\`\`\`
 
 ## 🧠 Tools
 MATLAB | EEGLAB | Signal Processing Toolbox
